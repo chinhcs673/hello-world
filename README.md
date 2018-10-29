@@ -1,2 +1,3 @@
 # hello-world
-testing my first repository
+Testing my first repository
+My name is Chinh, software engineer.
